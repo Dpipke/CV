@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 header{
-    background: rgb(242, 201, 162) url("../images/mountain.jpeg") no-repeat fixed center 700%;
-    /* background-size: cover; */
+    background: rgb(242, 201, 162) url("../images/mountain.jpeg") no-repeat fixed center 180%;
+    background-size: cover;
     height: 20vh;
     width: 100vw;
 }
